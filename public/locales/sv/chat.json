@@ -20,5 +20,5 @@
   "If you completed this step, OpenAI may be experiencing issues.": "Om du slutförde det här steget kan OpenAI ha problem.",
   "Message limit is {{maxLength}} characters. You have entered {{valueLength}} characters.": "Meddelandegränsen är {{maxLength}} tecken. Du har angett {{valueLength}} tecken.",
   "Please enter a message": "Vänligen ange ett meddelande",
-  "Chatbot UI is an advanced chatbot kit for OpenAI's chat models aiming to mimic ChatGPT's interface and functionality.": "Chatbot UI är ett avancerat chatbot-kit för OpenAI:s chattmodeller som syftar till att efterlikna ChatGPT:s gränssnitt och funktionalitet."
+  "Difinity Chat is a model similar to ChatGPT for using the Open AI API. Enter your personal key to use the chat.": "Difinity Chat är en modell liknande ChatGPT för att använda Open AI API. Ange din personliga nyckel för att använda chatten."
 }
