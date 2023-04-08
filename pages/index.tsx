@@ -735,7 +735,7 @@ const Home: React.FC<HomeProps> = ({
   return (
     <>
       <Head>
-        <title>Difinity Chatbot</title>
+        <title>Difinity Chat</title>
         <meta name="description" content="ChatGPT but better." />
         <meta
           name="viewport"
