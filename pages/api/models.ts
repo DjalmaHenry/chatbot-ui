@@ -1,4 +1,4 @@
-import { OpenAIModel, OpenAIModelID, OpenAIModels } from '@/types';
+import { OpenAIModel, OpenAIModelID, OpenAIModels } from '@/types/openai';
 import { OPENAI_API_HOST } from '@/utils/app/const';
 
 export const config = {
@@ -15,6 +15,9 @@ const handler = async (req: Request): Promise<Response> => {
       headers: {
         'Content-Type': 'application/json',
         Authorization: `Bearer ${key ? key : process.env.OPENAI_API_KEY}`,
+        ...(process.env.OPENAI_ORGANIZATION && {
+          'OpenAI-Organization': process.env.OPENAI_ORGANIZATION,
+        })
       },
     });
 

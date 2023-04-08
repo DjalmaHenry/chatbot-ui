@@ -16,9 +16,13 @@
   "Error fetching models.": "মডেল পেতে সমস্যা হচ্ছে।",
   "AI": "AI",
   "You": "তুমি",
+  "Cancel": "Cancel",
+  "Save & Submit": "Save & Submit",
   "Make sure your OpenAI API key is set in the bottom left of the sidebar.": "নিশ্চিত করুন যে আপনার OpenAI API key সাইডবারের নীচে বাম দিকে সেট করা আছে।",
   "If you completed this step, OpenAI may be experiencing issues.": "আপনি এই ধাপটি সম্পন্ন করে থাকলে, হতে পারে যে OpenAI কোনো সমস্যার সম্মুখীন হয়েছে।",
+  "click if using a .env.local file": "click if using a .env.local file",
   "Message limit is {{maxLength}} characters. You have entered {{valueLength}} characters.": "বার্তার সর্বোচ্চ সীমা হল {{maxLength}} অক্ষর৷ আপনি {{valueLength}} অক্ষর লিখেছেন।",
   "Please enter a message": "দয়া করে একটি মেসেজ লিখুন",
-  "Difinity Chat is a model similar to ChatGPT for using the Open AI API. Enter your personal key to use the chat.": "Difinity Chat একটি মডেল যা Open AI API ব্যবহার করার জন্য ChatGPT এর মতো। চ্যাট ব্যবহার করতে আপনার ব্যক্তিগত কী লিখুন।"
+  "Difinity Chat is a model similar to ChatGPT for using the Open AI API. Enter your personal key to use the chat.": "Difinity Chat একটি মডেল যা Open AI API ব্যবহার করার জন্য ChatGPT এর মতো। চ্যাট ব্যবহার করতে আপনার ব্যক্তিগত কী লিখুন।",
+  "Are you sure you want to clear all messages?": "সমস্ত বার্তা মুছে ফেলতে আপনি কি নিশ্চিত?"
 }

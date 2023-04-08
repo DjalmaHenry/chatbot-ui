@@ -16,10 +16,13 @@
   "Error fetching models.": "モデルの取得中にエラーが発生しました。",
   "AI": "AI",
   "You": "あなた",
+  "Cancel": "Cancel",
+  "Save & Submit": "Save & Submit",
   "Make sure your OpenAI API key is set in the bottom left of the sidebar.": "OpenAIのAPIキーがサイドバーの左下に設定されていることを確認してください。",
   "If you completed this step, OpenAI may be experiencing issues.": "このステップを完了した場合、OpenAIに問題が発生している可能性があります。",
   "click if using a .env.local file": "もし.env.localファイルを使用している場合はこちらをクリックしてください",
   "Message limit is {{maxLength}} characters. You have entered {{valueLength}} characters.": "メッセージの文字数は{{maxLength}}文字までです。あなたは{{valueLength}}文字を入力しました。",
   "Please enter a message": "メッセージを入力してください",
-  "Difinity Chat is a model similar to ChatGPT for using the Open AI API. Enter your personal key to use the chat.": "Difinity Chatは、Open AI APIを使用するためのChatGPTと似たモデルです。チャットを使用するには個人キーを入力してください。"
+  "Difinity Chat is a model similar to ChatGPT for using the Open AI API. Enter your personal key to use the chat.": "Difinity Chatは、Open AI APIを使用するためのChatGPTと似たモデルです。チャットを使用するには個人キーを入力してください。",
+  "Are you sure you want to clear all messages?": "すべてのメッセージを削除してもよろしいですか？"
 }

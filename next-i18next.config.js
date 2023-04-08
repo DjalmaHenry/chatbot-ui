@@ -9,6 +9,7 @@ module.exports = {
       "fr",
       "he",
       "id",
+      "it",
       "ja",
       "ko",
       "pt",
@@ -17,6 +18,7 @@ module.exports = {
       "te",
       "vi",
       "zh",
+      "ar",
     ],
   },
   localePath:

@@ -16,10 +16,13 @@
   "Error fetching models.": "Erro ao buscar os modelos.",
   "AI": "IA",
   "You": "Você",
+  "Cancel": "Cancel",
+  "Save & Submit": "Save & Submit",
   "Make sure your OpenAI API key is set in the bottom left of the sidebar.": "Certifique-se de que sua API Key da OpenAI esteja definida na parte inferior esquerda da barra lateral.",
   "If you completed this step, OpenAI may be experiencing issues.": "Se você concluiu esta etapa, o OpenAI pode estar com problemas.",
   "click if using a .env.local file": "clique se estiver usando um arquivo .env.local",
   "Message limit is {{maxLength}} characters. You have entered {{valueLength}} characters.": "O limite de mensagens é de {{maxLength}} caracteres. Você inseriu {{valueLength}} caracteres",
   "Please enter a message": "Por favor, insira uma mensagem",
-  "Difinity Chat is a model similar to ChatGPT for using the Open AI API. Enter your personal key to use the chat.": "Difinity Chat é um modelo similar ao ChatGPT para utilização da API do Open AI. Insira sua chave pessoal para utilizar o chat."
+  "Difinity Chat is a model similar to ChatGPT for using the Open AI API. Enter your personal key to use the chat.": "Difinity Chat é um modelo similar ao ChatGPT para utilização da API do Open AI. Insira sua chave pessoal para utilizar o chat.",
+  "Are you sure you want to clear all messages?": "Tem certeza de que deseja limpar todas as mensagens?"
 }
